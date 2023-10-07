@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>'this is a test on making filder'</title>
+<style>
+h1 {
+	text-align: center;
+	color: blue;
+}
+h2{
+	color: red;
+}
+h3{
+	color: red;
+}
+</style>
+
+</head>
+<body>
+	<h1>'new folder'</h1>
+	<h2>named one</h2>
+	<h3>a little confuseing</h3>
+</body>
+</html>
